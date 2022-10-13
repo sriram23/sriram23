@@ -1,4 +1,5 @@
-![About Me](https://sriram-23.web.app/static/media/sriram_normal.9292f705.jpg)
+<body style="background-color:black; color:white;">
+<h1 align="center">Hi 👋, I'm Sriram Balasubramanian</h1>
 <table role="table">
             <thead>
                 <tr>
@@ -35,6 +36,24 @@
             </tr>
             </tbody>
         </table>
+        <table>
+           <tr>
+           <td align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=sriram23&theme=dark&show_icons=true&locale=en" alt="sriram23 streak" /></td>
+           </tr>
+           <tr>
+               <td align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=sriram23&show_icons=true&locale=en&theme=dark" alt="sriram23" /></td>
+           </tr>
+           <tr>
+           <td align="center">
+           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriram23&&show_icons=true&locale=en&theme=dark&layout=compact" alt="sriram23 lang" />
+           </td>
+           </tr>
+           <tr>
+           <td align="center">
+           <img align="center" src="https://activity-graph.herokuapp.com/graph?username=sriram23&theme=react-dark&hide_border=true&area=true&&show_icons=true&locale=en" alt="sriram23 graph"/>
+           </td>
+           </tr>
+        </table>
         
 You can connect with me at below links:
 <br>
@@ -47,10 +66,4 @@ You can connect with me at below links:
 src="https://img.shields.io/twitter/follow/imsriramb?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/sriram23" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sriram23?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-<em>PROFILE VIEWS </em>
-<br>
-
-![Visitor Count](https://profile-counter.glitch.me/{sriram23}/count.svg)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sriram23&theme=dark)](https://git.io/streak-stats)
+</body>
