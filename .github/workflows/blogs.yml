@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: sriram23/sriram23@main
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: 10
           feed_list: "https://sriram23.hashnode.dev/rss.xml"
