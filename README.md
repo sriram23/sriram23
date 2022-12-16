@@ -59,6 +59,14 @@
 
 # My Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How I used the RSS feeds to display my blogs on my website &lpar;Part 2&rpar;](https://sriram23.hashnode.dev/how-i-used-the-rss-feeds-to-display-my-blogs-on-my-website-part-2)
+- [How I used the RSS feeds to display my blogs on my website &lpar;Part 1&rpar;](https://sriram23.hashnode.dev/how-i-used-the-rss-feeds-to-display-my-blogs-on-my-website-part-1)
+- [How to send emails with API?](https://sriram23.hashnode.dev/how-to-send-emails-with-api)
+- [How to create a grow-shrink header in React](https://sriram23.hashnode.dev/how-to-create-a-grow-shrink-header-in-react)
+- [How to fix the &quot;Unable to type in input&quot; issue in React](https://sriram23.hashnode.dev/how-to-fix-the-unable-to-type-in-input-issue-in-react)
+- [React Hooks](https://sriram23.hashnode.dev/react-hooks)
+- [Reverse an integer - JS](https://sriram23.hashnode.dev/reverse-an-integer-js)
+- [Harshad Number](https://sriram23.hashnode.dev/harshad-number)
 <!-- BLOG-POST-LIST:END -->
 
 You can connect with me at below links:
