@@ -28,6 +28,7 @@ On personal front, Love to learn about history! 📖.
 
 ## My Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Context in React?](https://sriram23.hashnode.dev/what-is-context-in-react)
 - [How I used the RSS feeds to display my blogs on my website &lpar;Part 2&rpar;](https://sriram23.hashnode.dev/how-i-used-the-rss-feeds-to-display-my-blogs-on-my-website-part-2)
 - [How I used the RSS feeds to display my blogs on my website &lpar;Part 1&rpar;](https://sriram23.hashnode.dev/how-i-used-the-rss-feeds-to-display-my-blogs-on-my-website-part-1)
 - [How to send emails with API?](https://sriram23.hashnode.dev/how-to-send-emails-with-api)
