@@ -28,6 +28,7 @@ On personal front, Love to learn about history! 📖.
 
 ## My Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 15 Git Commands You Should Know](https://sriram23.hashnode.dev/top-15-git-commands-you-should-know)
 - [Indentation With Tab Key In React](https://sriram23.hashnode.dev/indentation-with-tab-key-in-react)
 - [What is Context in React?](https://sriram23.hashnode.dev/what-is-context-in-react)
 - [How I used the RSS feeds to display my blogs on my website &lpar;Part 2&rpar;](https://sriram23.hashnode.dev/how-i-used-the-rss-feeds-to-display-my-blogs-on-my-website-part-2)
@@ -37,7 +38,6 @@ On personal front, Love to learn about history! 📖.
 - [How to fix the &quot;Unable to type in input&quot; issue in React](https://sriram23.hashnode.dev/how-to-fix-the-unable-to-type-in-input-issue-in-react)
 - [React Hooks](https://sriram23.hashnode.dev/react-hooks)
 - [Reverse an integer - JS](https://sriram23.hashnode.dev/reverse-an-integer-js)
-- [Harshad Number](https://sriram23.hashnode.dev/harshad-number)
 <!-- BLOG-POST-LIST:END -->
 
 ### Let's connect!
