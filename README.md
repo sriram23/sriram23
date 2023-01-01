@@ -51,3 +51,5 @@ On personal front, Love to learn about history! 📖.
 src="https://img.shields.io/twitter/follow/imsriramb?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/sriram23" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sriram23?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+![profile visits](https://komarev.com/ghpvc/?username=sriram23&color=brightgreen)
