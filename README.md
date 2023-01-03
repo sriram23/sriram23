@@ -46,6 +46,7 @@ On personal front, Love to learn about history! 📖.
 [![](https://img.shields.io/badge/Linkedin-%230072B1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imsriramb/)
 [![](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sriram23)
 [![](https://img.shields.io/badge/Hashnode-%23FFFFFF.svg?style=for-the-badge&logo=hashnode&logoColor=%232962ff)](https://sriram23.hashnode.dev/)
+[![](https://img.shields.io/badge/Firefox-Addons-%23203fb6.svg?style=for-the-badge&logo=mozilla&logoColor=%23ff6611)](https://addons.mozilla.org/en-US/firefox/user/12637768/)
 
 <a href="https://twitter.com/imsriramb" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/imsriramb?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
