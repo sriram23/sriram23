@@ -28,6 +28,7 @@ On personal front, Love to learn about history! 📖.
 
 ## My Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What are Core Web Vitals?](https://sriram23.hashnode.dev/core-web-vitals)
 - [Top 15 Git Commands You Should Know](https://sriram23.hashnode.dev/top-15-git-commands-you-should-know)
 - [Indentation With Tab Key In React](https://sriram23.hashnode.dev/indentation-with-tab-key-in-react)
 - [What is Context in React?](https://sriram23.hashnode.dev/what-is-context-in-react)
@@ -37,7 +38,6 @@ On personal front, Love to learn about history! 📖.
 - [How to create a grow-shrink header in React](https://sriram23.hashnode.dev/how-to-create-a-grow-shrink-header-in-react)
 - [How to fix the &quot;Unable to type in input&quot; issue in React](https://sriram23.hashnode.dev/how-to-fix-the-unable-to-type-in-input-issue-in-react)
 - [React Hooks](https://sriram23.hashnode.dev/react-hooks)
-- [Reverse an integer - JS](https://sriram23.hashnode.dev/reverse-an-integer-js)
 <!-- BLOG-POST-LIST:END -->
 
 ### Let's connect!
