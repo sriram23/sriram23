@@ -40,6 +40,10 @@ On personal front, Love to learn about history! 📖.
 - [React Hooks](https://sriram23.hashnode.dev/react-hooks)
 <!-- BLOG-POST-LIST:END -->
 
+### Things I'm working on
+ - [Markdown Editor](https://md-editor.web.app/)
+ - [Weather Now](https://weather-now-2.vercel.app/)
+
 ### Let's connect!
 
 [![](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/imsriramb)
