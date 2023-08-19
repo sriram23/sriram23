@@ -44,6 +44,7 @@ On personal front, Love to learn about history! 📖.
  - [Markdown Editor](https://md-editor.web.app/)
  - [Weather Now](https://weather-now-2.vercel.app/)
  - [CSS Clock](https://sriram23.github.io/css-clock/)
+ - [Vanilla Keyboard](https://sriram23.github.io/vanilla-keyboard/)
 
 
 ### Let's connect!
