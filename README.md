@@ -24,7 +24,6 @@ On personal front, Love to learn about history! 📖.
 
 ![Sriram's top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=sriram23&&show_icons=true&locale=en&theme=dark&layout=compact)
 
-![Sriram's Graph](https://activity-graph.herokuapp.com/graph?username=sriram23&theme=react-dark&hide_border=true&area=true&&show_icons=true&locale=en)
 
 ## My Blog Posts
 <!-- BLOG-POST-LIST:START -->
