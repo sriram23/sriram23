@@ -1,10 +1,24 @@
-<!-- <body style="background-color:black; color:white;"> -->
-# Hi 👋, I'm Sriram Balasubramanian</h1>
 
-I'm a developer with experience in developing Web and Hybrid Mobile Applications 🖥 📱.
-My expertise lies within front-end web/mobile apps 👨‍💻.
-I’m a lifelong learner (currently on a path exploring Python! 🐍).
-On personal front, Love to learn about history! 📖.
+# Hi 👋, I'm Sriram Balasubramanian</h1> ![profile visits](https://komarev.com/ghpvc/?username=sriram23&color=brightgreen)
+
+__Sriram Balasubramanian__, ⚛️ Front-End Engineer [@imsriramb](https://twitter.com/imSriramB) 
+
+💻 I develop web application with React & Mobile Apps with React Native 📲
+
+# About Me
+
+I'm a passionate and experienced Front-End engineer with a knack for crafting user-friendly and engaging React applications. My expertise lies in building web and mobile apps using React and React Native, ensuring seamless cross-platform compatibility 🌐. With a keen eye for detail and a strong understanding of user experience principles, I strive to deliver top-notch digital solutions that exceed expectations ✨.
+
+# Skills
+
+- React and React Native Development ⚛️📱
+- Front-End Engineering 🚀
+- HTML5 🎨
+- CSS3 🖌️
+- JavaScript 💡
+- Python (Familiarity) 🐍
+- Docker (Basic Knowledge) 🐳
+- Kubernetes (Basic Understanding) ☸️
 
 ## Tech I work with
 ![html](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,14 +30,6 @@ On personal front, Love to learn about history! 📖.
 ![python](https://img.shields.io/badge/Python-%23306998.svg?style=for-the-badge&logo=python&logoColor=%23FFD43B)
 <!-- ![git](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![vsc](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) -->
-
-## Github stats
-![Sriram's streak](http://github-readme-streak-stats.herokuapp.com?user=sriram23&theme=dark&show_icons=true&locale=en)
-
-![Sriram's stats](https://github-readme-stats.vercel.app/api?username=sriram23&show_icons=true&locale=en&theme=dark)
-
-![Sriram's top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=sriram23&&show_icons=true&locale=en&theme=dark&layout=compact)
-
 
 ## My Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -45,6 +51,13 @@ On personal front, Love to learn about history! 📖.
  - [CSS Clock](https://sriram23.github.io/css-clock/)
  - [Vanilla Keyboard](https://sriram23.github.io/vanilla-keyboard/)
 
+## Github stats
+![Sriram's streak](http://github-readme-streak-stats.herokuapp.com?user=sriram23&theme=dark&show_icons=true&locale=en)
+
+![Sriram's stats](https://github-readme-stats.vercel.app/api?username=sriram23&show_icons=true&locale=en&theme=dark)
+
+![Sriram's top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=sriram23&&show_icons=true&locale=en&theme=dark&layout=compact)
+
 
 ### Let's connect!
 
@@ -59,4 +72,3 @@ src="https://img.shields.io/twitter/follow/imsriramb?logo=twitter&style=for-the-
 /></a><a href="https://www.github.com/sriram23" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sriram23?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-![profile visits](https://komarev.com/ghpvc/?username=sriram23&color=brightgreen)
