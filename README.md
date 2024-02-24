@@ -1,5 +1,7 @@
 
-# Hi 👋, I'm Sriram Balasubramanian</h1> ![profile visits](https://komarev.com/ghpvc/?username=sriram23&color=brightgreen)
+# Hi 👋, I'm Sriram Balasubramanian</h1> 
+![profile visits](https://komarev.com/ghpvc/?username=sriram23&color=brightgreen) 
+[![GitHub followers](https://img.shields.io/github/followers/sriram23.svg?style=social&label=Follow)](https://github.com/sriram23?tab=followers)
 
 __Sriram Balasubramanian__, ⚛️ Front-End Engineer [@imsriramb](https://twitter.com/imSriramB) 
 
@@ -54,7 +56,7 @@ I'm a passionate and experienced Front-End engineer with a knack for crafting us
 ## Github stats
 ![Sriram's streak](http://github-readme-streak-stats.herokuapp.com?user=sriram23&theme=dark&show_icons=true&locale=en)
 
-![Sriram's stats](https://github-readme-stats.vercel.app/api?username=sriram23&show_icons=true&locale=en&theme=dark)
+![Sriram's stats](https://github-readme-stats.vercel.app/api?username=sriram23&count_private=true&show_icons=true&hide=contribs&locale=en&theme=dark)
 
 ![Sriram's top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=sriram23&&show_icons=true&locale=en&theme=dark&layout=compact)
 
