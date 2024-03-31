@@ -50,6 +50,7 @@ I'm a passionate and experienced Front-End engineer with a knack for crafting us
 ### Things I'm working on
  - [Cine Corner](https://cine-corner.web.app/)
  - [Swiggy Landing page (Clone)](https://swiggy-clone-23.web.app/)
+ - [Pixel Hunt](https://pixel-hunt.web.app/)
  - [Markdown Editor](https://md-editor.web.app/)
  - [Weather Now](https://weather-now-2.vercel.app/)
  - [CSS Clock](https://sriram23.github.io/css-clock/)
