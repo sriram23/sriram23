@@ -1,6 +1,9 @@
 
-# Hi 👋, I'm Sriram Balasubramanian</h1> 
+![github-header-image](https://github.com/user-attachments/assets/f699eea7-2445-43c3-82d2-f5c20a475caa)
+
 ![profile visits](https://komarev.com/ghpvc/?username=sriram23&color=brightgreen) 
+[![Years Badge](https://badges.pufler.dev/years/sriram23)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/sriram23)](https://badges.pufler.dev)
 [![GitHub followers](https://img.shields.io/github/followers/sriram23.svg?style=social&label=Follow)](https://github.com/sriram23?tab=followers)
 
 __Sriram Balasubramanian__, ⚛️ Front-End Engineer [@imsriramb](https://twitter.com/imSriramB) 
@@ -64,6 +67,11 @@ I'm a passionate and experienced Front-End engineer with a knack for crafting us
 
 ![Sriram's top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=sriram23&&show_icons=true&locale=en&theme=dark&layout=compact)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sriram23)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Sriram's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sriram23)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### Let's connect!
 
