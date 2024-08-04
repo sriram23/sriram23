@@ -38,6 +38,7 @@ I'm a passionate and experienced Front-End engineer with a knack for crafting us
 
 ## My Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Type Coercion in JavaScript](https://sriram23.hashnode.dev/mastering-type-coercion-in-javascript)
 - [Currying in JavaScript](https://sriram23.hashnode.dev/currying-in-javascript)
 - [Unveiling Containers: A Comparative Analysis of Real-World Containers and Software Containers](https://sriram23.hashnode.dev/unveiling-containers-a-comparative-analysis-of-real-world-containers-and-software-containers)
 - [Understanding Functions and Callbacks in JavaScript](https://sriram23.hashnode.dev/understanding-functions-and-callbacks-in-javascript-f288bf19bc2e)
@@ -47,7 +48,6 @@ I'm a passionate and experienced Front-End engineer with a knack for crafting us
 - [What is Context in React?](https://sriram23.hashnode.dev/what-is-context-in-react)
 - [How I used the RSS feeds to display my blogs on my website &lpar;Part 2&rpar;](https://sriram23.hashnode.dev/how-i-used-the-rss-feeds-to-display-my-blogs-on-my-website-part-2)
 - [How I used the RSS feeds to display my blogs on my website &lpar;Part 1&rpar;](https://sriram23.hashnode.dev/how-i-used-the-rss-feeds-to-display-my-blogs-on-my-website-part-1)
-- [How to send emails with API?](https://sriram23.hashnode.dev/how-to-send-emails-with-api)
 <!-- BLOG-POST-LIST:END -->
 
 ### Things I'm working on
