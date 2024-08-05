@@ -69,6 +69,10 @@ I'm a passionate and experienced Front-End engineer with a knack for crafting us
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sriram23)](https://github.com/ryo-ma/github-profile-trophy)
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sriram23&theme=dracula" alt="GitHub Activity Graph" />
+</div>
+
 [![Sriram's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sriram23)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
