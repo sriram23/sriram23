@@ -41,6 +41,7 @@ I'm a passionate and experienced Front-End engineer with a knack for crafting us
 
 ## My Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Mind-Boggling JavaScript Code Snippets That Will Confuse Even Experts!](https://sriram23.hashnode.dev/10-mind-boggling-javascript-code-snippets-that-will-confuse-even-experts)
 - [Mastering Type Coercion in JavaScript](https://sriram23.hashnode.dev/mastering-type-coercion-in-javascript)
 - [Currying in JavaScript](https://sriram23.hashnode.dev/currying-in-javascript)
 - [Unveiling Containers: A Comparative Analysis of Real-World Containers and Software Containers](https://sriram23.hashnode.dev/unveiling-containers-a-comparative-analysis-of-real-world-containers-and-software-containers)
@@ -50,7 +51,6 @@ I'm a passionate and experienced Front-End engineer with a knack for crafting us
 - [Indentation With Tab Key In React](https://sriram23.hashnode.dev/indentation-with-tab-key-in-react)
 - [What is Context in React?](https://sriram23.hashnode.dev/what-is-context-in-react)
 - [How I used the RSS feeds to display my blogs on my website &lpar;Part 2&rpar;](https://sriram23.hashnode.dev/how-i-used-the-rss-feeds-to-display-my-blogs-on-my-website-part-2)
-- [How I used the RSS feeds to display my blogs on my website &lpar;Part 1&rpar;](https://sriram23.hashnode.dev/how-i-used-the-rss-feeds-to-display-my-blogs-on-my-website-part-1)
 <!-- BLOG-POST-LIST:END -->
 
 ### Things I'm working on
