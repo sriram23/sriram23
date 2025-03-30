@@ -1,5 +1,4 @@
-
-![github-header-image](https://github.com/user-attachments/assets/f699eea7-2445-43c3-82d2-f5c20a475caa)
+![Sriram-dev](https://github.com/user-attachments/assets/67b85d44-db56-4af1-b6f9-b2d3aad5db9f)
 
 ![profile visits](https://komarev.com/ghpvc/?username=sriram23&color=brightgreen) 
 [![Years Badge](https://badges.pufler.dev/years/sriram23)](https://badges.pufler.dev)
