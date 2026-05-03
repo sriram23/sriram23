@@ -1,15 +1,9 @@
-# Sriram Balasubramanian
+# Sriram B
 
-Frontend Engineer | Real-time Systems | Performance-focused UI
+Frontend Engineer (6+ yrs) focused on building high-performance, scalable UI systems.
 
----
-
-## What I Do
-
-* Build **low-latency, real-time applications** (SSE, WebSockets)
-* Design **scalable frontend architectures**
-* Optimize rendering using **virtualization & memoization**
-* Focus on **performance metrics, not assumptions**
+React • TypeScript • Real-time systems  
+Rendering optimization • State management • Frontend system design
 
 ---
 
@@ -17,38 +11,33 @@ Frontend Engineer | Real-time Systems | Performance-focused UI
 
 ### Sudeshi AI Chat
 
-Real-time AI chat application with streaming architecture
+Real-time AI chat application built with streaming architecture.
 
-* ~300–500ms time-to-first-token using SSE
-* State-machine driven async handling
-* Optimized rendering for long conversations
+- Achieved ~300–500ms time-to-first-token using SSE
+- Designed state-machine driven async workflows for reliability
+- Optimized rendering for large chat histories using virtualization & memoization
+- Built for low-latency, high-frequency UI updates
 
-👉 Repo: ([link](https://github.com/sriram23/sudeshi-ai-chat))
+👉 Repo: https://github.com/sriram23/sudeshi-ai-chat
 
 ---
 
 ## Engineering Focus
 
-* Rendering performance (virtualization, batching)
-* Real-time data handling (SSE vs WebSockets)
-* State management strategies
-* System design for frontend-heavy apps
+- React rendering behavior and performance optimization
+- Real-time data handling (SSE, streaming, async flows)
+- Scalable UI architecture and state management
+- Performance-driven frontend design decisions
 
 ---
 
 ## Writing
 
-I write about frontend engineering and JavaScript concepts:
-
-* Type coercion deep dives
-* Core Web Vitals
-* React patterns and pitfalls
-
-👉 Blog: https://sriram23.hashnode.dev/
+I write about frontend engineering, performance, and JavaScript fundamentals:  
+https://sriram23.hashnode.dev/
 
 ---
 
 ## Connect
 
-* LinkedIn: https://www.linkedin.com/in/imsriramb/
-* GitHub: https://github.com/sriram23
+LinkedIn: https://www.linkedin.com/in/imsriramb
