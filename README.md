@@ -1,9 +1,8 @@
 # Sriram B
 
-Frontend Engineer (6+ yrs) focused on building high-performance, scalable UI systems.
+Frontend Engineer (6+ yrs) building high-performance, scalable interfaces with React and TypeScript.
 
-React • TypeScript • Real-time systems  
-Rendering optimization • State management • Frontend system design
+I focus on frontend architecture, rendering performance, real-time applications, and building reliable user experiences around asynchronous data.
 
 ---
 
@@ -11,33 +10,45 @@ Rendering optimization • State management • Frontend system design
 
 ### Sudeshi AI Chat
 
-Real-time AI chat application built with streaming architecture.
+A multilingual AI chat application built with Next.js, designed around real-time streaming, provider abstraction, conversation memory, and frontend performance.
 
-- Achieved ~300–500ms time-to-first-token using SSE
-- Designed state-machine driven async workflows for reliability
-- Optimized rendering for large chat histories using virtualization & memoization
-- Built for low-latency, high-frequency UI updates
+- ⚡ Built real-time AI response streaming using SSE
+- 🔄 Designed state-machine-driven async workflows for reliable streaming
+- 🚀 Optimized large chat histories using virtualization and memoization
+- 🧠 Built token-aware conversation memory and summarization
+- 📊 Added streaming metrics including TTFB and tokens/sec
+- 🎯 Designed for low-latency, high-frequency UI updates
 
-👉 Repo: https://github.com/sriram23/sudeshi-ai-chat
+👉 [Repository](https://github.com/sriram23/sudeshi-ai-chat)
 
 ---
 
 ## Engineering Focus
 
-- React rendering behavior and performance optimization
-- Real-time data handling (SSE, streaming, async flows)
-- Scalable UI architecture and state management
-- Performance-driven frontend design decisions
+- **React performance** — rendering behavior, virtualization, memoization
+- **Frontend architecture** — scalable UI systems and state management
+- **Real-time applications** — SSE, streaming, and asynchronous workflows
+- **API-driven interfaces** — GraphQL, REST, and client-side data management
+- **Frontend modernization** — migrations, dependency upgrades, and performance improvements
+
+---
+
+## Tech
+
+`React` `TypeScript` `Next.js` `JavaScript`  
+`GraphQL` `Zustand` `Apollo Client` `Vite`  
+`Tailwind CSS` `SSE` `Node.js`
 
 ---
 
 ## Writing
 
-I write about frontend engineering, performance, and JavaScript fundamentals:  
-https://sriram23.hashnode.dev/
+I write about frontend engineering, JavaScript fundamentals, performance, and things I learn while building real applications.
+
+👉 [Hashnode](https://sriram23.hashnode.dev/)
 
 ---
 
 ## Connect
 
-LinkedIn: https://www.linkedin.com/in/imsriramb
+👉 [LinkedIn](https://www.linkedin.com/in/imsriramb)
